@@ -1,0 +1,12 @@
+{
+  "name": "Cronometro",
+  "displayName": "Cronometro",
+  "expo": {
+    "name": "Cronometro",
+    "slug": "Cronometro",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
